@@ -10,4 +10,4 @@ Input:
 <br />
 Output:
 <br />
-   simple interest = p*t*r
+&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p*t*r
